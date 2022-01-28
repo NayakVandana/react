@@ -1,0 +1,28 @@
+.form {
+  width: 600px;
+  margin: 40px auto;
+  padding: 40px;
+}
+.form form {
+  background-color: white;
+  padding: 30px;
+}
+.form input {
+  font-size: 20px;
+  padding: 10px 20px;
+  margin-top: 10px;
+  outline: none;
+  width: 90%;
+}
+.form label {
+  font-size: 20px;
+  font-weight: 500;
+}
+.form button {
+  background-color: #1a374d;
+  padding: 15px 30px;
+  border: none;
+  color: white;
+  font-size: 20px;
+  border-radius: 10px;
+}
